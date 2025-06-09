@@ -1,0 +1,15 @@
+# Smart Contracts Folder
+
+Upload your Solidity contracts, ABIs, and deployment scripts here.
+
+## What to upload:
+- `.sol` files - Smart contract source code
+- `.json` files - Contract ABIs
+- Deployment scripts
+- Test files
+
+## Analysis provided:
+- Security vulnerability scanning
+- Gas optimization suggestions
+- Code quality review
+- Best practices recommendations

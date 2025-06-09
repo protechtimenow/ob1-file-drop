@@ -1,0 +1,15 @@
+# Configuration Files Folder
+
+Upload configuration files here.
+
+## What to upload:
+- Trading bot configurations
+- DeFi protocol settings
+- API configurations (remove sensitive data)
+- Environment files (sanitized)
+
+## Analysis provided:
+- Configuration validation
+- Security recommendations
+- Optimization suggestions
+- Best practices review

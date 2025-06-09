@@ -1,0 +1,16 @@
+# Data Files Folder
+
+Upload your data files here for analysis.
+
+## Supported formats:
+- CSV files
+- JSON data
+- Parquet files
+- Excel files
+
+## Analysis provided:
+- Data quality assessment
+- Statistical analysis
+- Visualization generation
+- Trend identification
+- Performance metrics
